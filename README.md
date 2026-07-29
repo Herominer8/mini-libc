@@ -1,6 +1,6 @@
-[![GitHub stars](https://img.shields.io/github/stars/your-username/mini-libc)](https://github.com/your-username/mini-libc/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/mini-libc)](https://github.com/your-username/mini-libc/network)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/mini-libc)](https://github.com/your-username/mini-libc/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Herominer8/mini-libc)](https://github.com/Herominer8/mini-libc/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Herominer8/mini-libc)](https://github.com/Herominer8/mini-libc/network)
+[![GitHub issues](https://img.shields.io/github/issues/Herominer8/mini-libc)](https://github.com/Herominer8/mini-libc/issues)
 
 # 🏛️ Mini-LibC
 
